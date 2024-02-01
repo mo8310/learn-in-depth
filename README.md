@@ -31,8 +31,6 @@
   </a>
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/mo8310/mo8310/output/snake.svg" alt="Snake animation" />
 
 ###
 
